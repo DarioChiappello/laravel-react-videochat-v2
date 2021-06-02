@@ -2,7 +2,7 @@
 ## Laravel - ReactJS - SQLite - Pusher
 
 
-[![Example]](https://youtu.be/yHWOOHVtRBk)
+[Example](https://youtu.be/yHWOOHVtRBk)
 
 
 
